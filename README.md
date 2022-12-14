@@ -2,7 +2,7 @@
 Hola!, Bienvenido/a a mi perfil de GitHub👋
 ===========================================
 
-Ingeniero, Desallodor Web Full Stack y UX/UI Designer
+Ingeniero, Desarrollador Web Full Stack y UX/UI Designer
 
 Languages, libraries, frameworks:
 
