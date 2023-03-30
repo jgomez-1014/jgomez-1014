@@ -73,4 +73,6 @@
 <div id="contacto" align="center">
     <h4> 📈 My Stats:</h4>
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=jgomez-1014&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgomez-1014)](https://github.com/anuraghazra/github-readme-stats)
+
