@@ -21,7 +21,7 @@
 </div>
 <div id="contacto" align="center">
     <h4> ✉️ Para contactarme escribeme a: arturogomez1014@gmail.com</h4>
-    <h4> 🌐 Visita mi sitio web: www.jorgedev.com</h4>
+    <h4> 🌐 Visita mi sitio web: https://jorgecvgomez.000webhostapp.com/contacto.html</h4>
 </div>
 <div id="leng" align="center">
     <br>
